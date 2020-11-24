@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W29218
   title: དཔལ་ལྡན་འབྲུག་པའི་རིང་ལུགས་དཀྱིལ་ཆོག་གི་སྔགས་ཀློག་དགོས་མཁོ་གཞན་དང་བཅས་པ་དངོས་གྲུབ་མྱུར་སྦྱིན།
-  volume: ''
+  volume:
+    7fb923cdc95c4c7fbf5591fd7902890c:
+      image_group_id: I1KG17971
+      title: Volume 1 of dpal ldan 'brug pa'i ring lugs dkyil chog gi sngags klog
+        dgos mkho gzhan dang bcas pa dngos grub myur sbyin/
+      volume_number: 1
+      total_pages: 324
   author: ''
+ebook_metadata:
+  title: དཔལ་ལྡན་འབྲུག་པའི་རིང་ལུགས་དཀྱིལ་ཆོག་གི་སྔགས་ཀློག་དགོས་མཁོ་གཞན་དང་བཅས་པ་དངོས་གྲུབ་མྱུར་སྦྱིན།
+  author: ''
+  sku: P006994
+  cover: cover.jpg
+  layers:
+  - pagination
