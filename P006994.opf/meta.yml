@@ -5,11 +5,13 @@ source_metadata:
   title: དཔལ་ལྡན་འབྲུག་པའི་རིང་ལུགས་དཀྱིལ་ཆོག་གི་སྔགས་ཀློག་དགོས་མཁོ་གཞན་དང་བཅས་པ་དངོས་གྲུབ་མྱུར་སྦྱིན།
   author: ''
   volumes:
-    9ce26071b3dd4cb4bd4a69b5fbb2c0bb:
+    7fb923cdc95c4c7fbf5591fd7902890c:
       image_group_id: I1KG17971
-      title: ''
+      title: Volume 1 of dpal ldan 'brug pa'i ring lugs dkyil chog gi sngags klog
+        dgos mkho gzhan dang bcas pa dngos grub myur sbyin/
       volume_number: 1
       total_pages: 324
+      base_file: v001.txt
 ebook_metadata:
   title: དཔལ་ལྡན་འབྲུག་པའི་རིང་ལུགས་དཀྱིལ་ཆོག་གི་སྔགས་ཀློག་དགོས་མཁོ་གཞན་དང་བཅས་པ་དངོས་གྲུབ་མྱུར་སྦྱིན།
   author: ''
